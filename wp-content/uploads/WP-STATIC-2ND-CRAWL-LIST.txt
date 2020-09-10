@@ -1,0 +1,17 @@
+/2020/09/
+/2020/09/08/hello-world/feed/
+/author/admin/
+/category/uncategorized/feed/
+/comments/feed/
+/feed/
+/sample-page/feed/
+/wp-admin/
+/wp-content/themes/astra/assets/css/minified/menu-animation.min.css
+/wp-content/themes/astra/assets/css/minified/style.min.css
+/wp-content/themes/astra/assets/js/minified/style.min.js
+/wp-includes/css/dist/block-library/style.min.css
+/wp-json/
+/wp-json/oembed/1.0/embed
+/wp-json/wp/v2/categories/1
+/wp-json/wp/v2/pages/2
+/wp-json/wp/v2/posts/1
